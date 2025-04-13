@@ -1,1 +1,6 @@
-## The_Secondary_key_-_pairwork
+# PL/SQL ASSIGNMENT
+
+### IRABARUTA WILLY Norbert 27463
+### NGANUCYE SINGIZWA Valentin 27201
+  
+### GROUP B 
