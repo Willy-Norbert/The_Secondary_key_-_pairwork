@@ -21,5 +21,12 @@ This repository contains SQL queries that utilize window functions to analyze a 
 
 ## User creation
 
+
 ![creating user](https://github.com/user-attachments/assets/4de57e56-2f48-4dd2-8494-6ea95e7bf6a2)
+
+
+## Table Creation And Insertion Of Data
+
+![creating table and inserting in it](https://github.com/user-attachments/assets/dcd49e60-c780-4b88-9fd9-2cc1735ff7e2)
+
 
