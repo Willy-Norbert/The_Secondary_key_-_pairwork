@@ -53,7 +53,7 @@ CREATE TABLE rwanda_parliament (
 
 
 ## Top 3 Salaries per Party
-
+- Purpose: Retrieve members with the top 3 salaries in each party.
 ![Top 3 Salaries per Party](https://github.com/user-attachments/assets/fb3a1f69-e68e-4935-bdb5-38ed99fba434)
 
 ## Comparison of Salaries Using LAG() and LEAD()
