@@ -29,4 +29,15 @@ This repository contains SQL queries that utilize window functions to analyze a 
 
 ![creating table and inserting in it](https://github.com/user-attachments/assets/dcd49e60-c780-4b88-9fd9-2cc1735ff7e2)
 
+## First 2 MPs Appointed per District
+
+![First 2 MPs Appointed per District](https://github.com/user-attachments/assets/9bc89277-f641-4bd8-bb38-59ed011be5cd)
+
+## Rank MPs by Salary within
+
+![Rank MPs by Salary within](https://github.com/user-attachments/assets/7fad9098-dd74-4ce3-bd66-058b74e18ad6)
+
+
+## 
+
 
