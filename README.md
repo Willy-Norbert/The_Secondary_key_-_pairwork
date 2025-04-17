@@ -53,6 +53,7 @@ This repository contains SQL queries that utilize window functions to analyze a 
 
 ![Aggregation with Window Functions](https://github.com/user-attachments/assets/4ee89511-335c-4a6d-af57-c5fd92b24b37)
 
-
+## Conclusion
+This analysis provides a comprehensive overview of the salary structures within the Rwandan parliament, enabling stakeholders to understand disparities and trends. The use of diverse SQL techniques demonstrates the effective application of data analysis methods.
 
 
