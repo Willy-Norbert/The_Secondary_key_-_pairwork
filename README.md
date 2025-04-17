@@ -38,6 +38,19 @@ This repository contains SQL queries that utilize window functions to analyze a 
 ![Rank MPs by Salary within](https://github.com/user-attachments/assets/7fad9098-dd74-4ce3-bd66-058b74e18ad6)
 
 
-## 
+## Top 3 Salaries per Party
+
+![Top 3 Salaries per Party](https://github.com/user-attachments/assets/fb3a1f69-e68e-4935-bdb5-38ed99fba434)
+
+## Comparison of Salaries Using LAG() and LEAD()
+
+![Compare Salaries Using LAG() and LEAD()](https://github.com/user-attachments/assets/60a298c4-5614-4227-87c5-823296949866)
+
+
+## Aggregation with Window Functions
+
+![Aggregation with Window Functions](https://github.com/user-attachments/assets/4ee89511-335c-4a6d-af57-c5fd92b24b37)
+
+
 
 
