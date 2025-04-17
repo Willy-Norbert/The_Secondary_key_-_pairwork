@@ -44,6 +44,8 @@ This repository contains SQL queries that utilize window functions to analyze a 
 
 ## Comparison of Salaries Using LAG() and LEAD()
 
+- LAG and LEAD are employed to compare each member's salary against their previous and next entries.
+
 ![Compare Salaries Using LAG() and LEAD()](https://github.com/user-attachments/assets/60a298c4-5614-4227-87c5-823296949866)
 
 
