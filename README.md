@@ -20,7 +20,10 @@ This repository contains SQL queries that utilize window functions to analyze a 
 ## Dataset
 
 ## User creation
-
+```sql
+CREATE USER pairwork IDENTIFIED BY 01402; 
+GRANT ALL PRIVILEGES TO pairwork;
+```
 
 ![creating user](https://github.com/user-attachments/assets/4de57e56-2f48-4dd2-8494-6ea95e7bf6a2)
 
