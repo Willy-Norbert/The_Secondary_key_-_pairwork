@@ -18,4 +18,8 @@ This repository contains SQL queries that utilize window functions to analyze a 
 - Document their work properly and push everything to GitHub.
 
 ## Dataset
-The dataset used in this analysis is structured as follows:
+
+## User creation
+
+![creating user](https://github.com/user-attachments/assets/4de57e56-2f48-4dd2-8494-6ea95e7bf6a2)
+
