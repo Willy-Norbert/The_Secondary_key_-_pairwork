@@ -3,7 +3,7 @@
 ### IRABARUTA WILLY Norbert 27463
 ### NGANUCYE SINGIZWA Valentin 27201
   
-### GROUP B 
+### GROUP B
 
 
 # Rwandan Parliament Dataset Analysis
