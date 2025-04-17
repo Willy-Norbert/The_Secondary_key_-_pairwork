@@ -29,7 +29,18 @@ GRANT ALL PRIVILEGES TO pairwork;
 
 
 ## Table Creation And Insertion Of Data
+```sql
 
+CREATE TABLE rwanda_parliament (
+    mp_id NUMBER PRIMARY KEY,
+    full_name VARCHAR(120),
+    district VARCHAR(50),
+    gender VARCHAR(10),
+    party VARCHAR(50),
+    appointment_date DATE,
+    monthly_salary NUMBER
+);
+```
 ![creating table and inserting in it](https://github.com/user-attachments/assets/dcd49e60-c780-4b88-9fd9-2cc1735ff7e2)
 
 ## First 2 MPs Appointed per District
